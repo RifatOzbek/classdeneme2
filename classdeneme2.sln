@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "classdeneme2", "classdeneme2\classdeneme2.csproj", "{2ECA6CD4-D834-4A46-8698-8644C5C3E935}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodsDeneme", "MethodsDeneme\MethodsDeneme.csproj", "{3F6C280D-33F7-48FB-BA8D-633B482BA4C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2ECA6CD4-D834-4A46-8698-8644C5C3E935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ECA6CD4-D834-4A46-8698-8644C5C3E935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ECA6CD4-D834-4A46-8698-8644C5C3E935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ECA6CD4-D834-4A46-8698-8644C5C3E935}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F6C280D-33F7-48FB-BA8D-633B482BA4C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F6C280D-33F7-48FB-BA8D-633B482BA4C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F6C280D-33F7-48FB-BA8D-633B482BA4C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F6C280D-33F7-48FB-BA8D-633B482BA4C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2F7E1CF-7234-4457-ACC8-79B1B45241CE}
+	EndGlobalSection
+EndGlobal
